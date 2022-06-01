@@ -1,0 +1,46 @@
+{
+  "name": "coriolis-kbender-ships",
+  "title": "Coriolis kbender ships pack",
+  "description": "Ships scenes for Coriolis RPG",
+  "author": "kbenedr",
+  "authors": [],
+  "url": "https://github.com/kbender84/coriolis-kbender-ships",
+  "flags": {},
+  "version": "0.1",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "corioliskbenderships",
+      "label": "Coriolis kbender ships",
+      "path": "packs/coriolis-kbender-ships.db",
+      "entity": "Scene",
+      "module": "coriolis-kbender-ships",
+      "type": "Macro",
+      "private": false
+    }
+  ],
+  "system": [],
+  "dependencies": [
+    {
+      "name": "levels",
+      "type": "module"
+    }
+  ],
+  "socket": false,
+  "manifest": "https://github.com/kbender84/coriolis-kbender-ships/releases/download/0.1/module.json",
+  "download": "https://github.com/kbender84/coriolis-kbender-ships/releases/download/0.1/coriolis-kbender-ships.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
