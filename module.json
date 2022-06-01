@@ -2,45 +2,47 @@
   "name": "coriolis-kbender-ships",
   "title": "Coriolis kbender ships pack",
   "description": "Ships scenes for Coriolis RPG",
-  "author": "kbenedr",
-  "authors": [],
+  "author": "kbender",
+  "authors": [       {
+            "name": "kbender",
+            "email": "kbender@wp.pl",
+            "url": "https://kbender.net"
+        }
+],
   "url": "https://github.com/kbender84/coriolis-kbender-ships",
-  "flags": {},
   "version": "0.1",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
   "packs": [
     {
-      "name": "corioliskbenderships",
+      "name": "coriolis-kbender-ships",
       "label": "Coriolis kbender ships",
       "path": "packs/coriolis-kbender-ships.db",
+     "module": "world",
       "entity": "Scene",
-      "module": "coriolis-kbender-ships",
-      "type": "Macro",
+      "lang": [
+        "en"
+      ],
+      "type": "Scene",
       "private": false
+
     }
   ],
   "system": [],
   "dependencies": [
     {
-      "name": "levels",
-      "type": "module"
-    }
+      "name": "levels"
+    },
+	{
+        "name": "betterroofs"
+    },
+    {
+		"name": "lib-wrapper"
+    },
+	{
+		"name": "wall-height"
+	}
   ],
-  "socket": false,
   "manifest": "https://github.com/kbender84/coriolis-kbender-ships/releases/download/0.1/module.json",
-  "download": "https://github.com/kbender84/coriolis-kbender-ships/releases/download/0.1/coriolis-kbender-ships.zip",
-  "protected": false,
-  "coreTranslation": false,
-  "library": false
+  "download": "https://github.com/kbender84/coriolis-kbender-ships/releases/download/0.1/coriolis-kbender-ships.zip"
 }
