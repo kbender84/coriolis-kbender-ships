@@ -3,16 +3,19 @@
   "title": "Coriolis kbender ships pack",
   "description": "Ships scenes for Coriolis RPG",
   "author": "kbender",
-  "authors": [       {
-            "name": "kbender",
-            "email": "kbender@wp.pl",
-            "url": "https://kbender.net"
-        }
+   "authors": [
+    {
+      "name": "benderworks",
+      "url": "https://www.patreon.com/benderworks/about",
+	  "discord": "kbender#0388"
+    }  
 ],
   "url": "https://github.com/kbender84/coriolis-kbender-ships",
-  "version": "0.1",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
   "packs": [
     {
       "name": "coriolis-kbender-ships",
@@ -28,20 +31,10 @@
 
     }
   ],
-  "system": [],
   "dependencies": [
     {
       "name": "levels"
-    },
-	{
-        "name": "betterroofs"
-    },
-    {
-		"name": "lib-wrapper"
-    },
-	{
-		"name": "wall-height"
-	}
+    }
   ],
   "manifest": "https://github.com/kbender84/coriolis-kbender-ships/releases/download/0.1/module.json",
   "download": "https://github.com/kbender84/coriolis-kbender-ships/releases/download/0.1/coriolis-kbender-ships.zip"
