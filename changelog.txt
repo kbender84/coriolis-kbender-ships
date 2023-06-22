@@ -1,0 +1,3 @@
+0.1 initial package
+0.2 Scarab added
+0.3 Oryx added and maximum foundry dependancy removed to enable v11 FoundryVTT
