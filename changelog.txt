@@ -1,4 +1,5 @@
 0.1 initial package
 0.2 Scarab added
 0.3 Oryx added and maximum foundry dependancy removed to enable v11 FoundryVTT
-0.3 Azuk gunship and tokens added
+0.4 Azuk gunship and tokens added
+0.5 Omrik medium freighter - modular and shared tokens updated with creatures and vechicles
