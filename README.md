@@ -13,5 +13,7 @@ Scarab Passenger Freighter
 Azuk Gunship
 Omril Medium Freighter
 Oryx Courier Ship
+Kamruk Salvage Ship
+
 
 All are made from my assetpacks that are created with generative AI.

@@ -3,3 +3,4 @@
 0.3 Oryx added and maximum foundry dependancy removed to enable v11 FoundryVTT
 0.4 Azuk gunship and tokens added
 0.5 Omrik medium freighter - modular and shared tokens updated with creatures and vechicles
+1.0 Kamruk added

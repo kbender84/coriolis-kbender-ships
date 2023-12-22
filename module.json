@@ -2,7 +2,7 @@
   "name": "coriolis-kbender-ships",
   "title": "Coriolis kbender ships pack",
   "description": "Ships scenes for Coriolis RPG",
-  "version": "0.5",
+  "version": "1.0",
    "authors": [
     {
       "name": "benderworks",
@@ -18,7 +18,7 @@
     {
       "name": "coriolis-kbender-ships",
       "label": "Coriolis kbender ships",
-      "path": "packs/coriolis-kbender-ships.db",
+      "path": "packs/coriolis-kbender-ships",
      "module": "world",
       "entity": "Scene",
       "lang": [
@@ -34,6 +34,6 @@
       "name": "levels"
     }
   ],
-  "manifest": "https://github.com/kbender84/coriolis-kbender-ships/releases/download/0.5/module.json",
-  "download": "https://github.com/kbender84/coriolis-kbender-ships/releases/download/0.5/coriolis-kbender-ships.zip"
+  "manifest": "https://github.com/kbender84/coriolis-kbender-ships/releases/download/1.0/module.json",
+  "download": "https://github.com/kbender84/coriolis-kbender-ships/releases/download/1.0/coriolis-kbender-ships.zip"
 }
